@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For RotaryEncoderArray
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+rotaryEncoderInit KEYWORD2
+setRotaryEncoderPins KEYWORD2
+getRotaryPosition KEYWORD2
+getRotaryDirection KEYWORD2
+getRotaryButton KEYWORD2
+getRotaryButtonPulse KEYWORD2
+getEncoderPin1 KEYWORD2
+getRotaryDebug KEYWORD2
+setRotaryPosition KEYWORD2
+setRotaryLimits KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+BUTTON_TIMEOUT LITERAL1
+BUTTON_LONG LITERAL1
+BUTTON_SHORT LITERAL1
+BUTTON_DEBOUNCE LITERAL1
